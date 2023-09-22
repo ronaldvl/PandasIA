@@ -27,4 +27,4 @@ Para utilizar OpenAI, necesitará un token API. Siga los sencillos pasos a conti
 2. Vaya a Ver claves API en el lado izquierdo de la configuración de su cuenta personal.
 3. Seleccione Crear nueva clave secreta.
 
-**Importante:** El acceso API a openai es un servicio pago. Tienes que configurar la facturación. Por favor lea la información de Precios antes de experimentar.
+**Importante:** El acceso API a openai es un servicio pago. Tienes que configurar la facturación. Por favor lea la información de [Precios](https://platform.openai.com/docs/quickstart/pricing) antes de experimentar.
