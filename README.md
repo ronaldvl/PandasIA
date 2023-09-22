@@ -8,7 +8,7 @@ PandasAI es una biblioteca de Python que agrega capacidades de IA generativa a p
 ## 🔧 Instalación
 
 ```bash
-pip install pandasai
+!pip install pandasai
 ```
 
 ## 🔍 Ejemplo PandasAI en su navegador:
