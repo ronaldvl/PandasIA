@@ -13,7 +13,7 @@ pip install pandasai
 
 ## 🔍 Ejemplo PandasAI en su navegador:
 
-[![Open in Colab](https://colab.research.google.com/drive/1LwlLcEigxCkQpW_RM2dXCXHoNHUpby72?usp=sharing)
+[[Open in Colab](https://colab.research.google.com/drive/1LwlLcEigxCkQpW_RM2dXCXHoNHUpby72?usp=sharing)
 
 ## 📖 Documentation
 
