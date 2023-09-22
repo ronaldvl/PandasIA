@@ -3,7 +3,7 @@
 
 PandasAI es una biblioteca de Python que agrega capacidades de IA generativa a pandas, la popular herramienta de manipulación y análisis de datos. Está diseñado para usarse junto con pandas y no lo reemplaza.
 
-PandasAI
+#### 🎥 [Video Introductoria PandasAI](https://www.loom.com/share/dbd8bd78be1243bfbd836b166e58069c)
 
 ## 🔧 Instalación
 
