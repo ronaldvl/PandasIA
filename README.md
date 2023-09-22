@@ -18,3 +18,15 @@ pip install pandasai
 ## 📖 Documentation
 
 The documentation for PandasAI can be found [here](https://pandas-ai.readthedocs.io/en/latest/).
+
+## 💰
+
+Dado que PandasAI funciona con un LLM, debe importar el LLM que desea utilizar para su caso de uso. En ese caso usaremos OpenAI.
+
+Para utilizar OpenAI, necesitará un token API. Siga los sencillos pasos a continuación para generar su API_TOKEN con openai.
+
+1. Vaya a https://openai.com/api/ y regístrese con su dirección de correo electrónico o conecte su cuenta de Google.
+2. Vaya a Ver claves API en el lado izquierdo de la configuración de su cuenta personal.
+3. Seleccione Crear nueva clave secreta.
+
+**Importante:** El acceso API a openai es un servicio pago. Tienes que configurar la facturación. Por favor lea la información de Precios antes de experimentar.
