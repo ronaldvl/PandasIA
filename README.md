@@ -1,3 +1,7 @@
+# About Me 🧘🏻‍♂️
+
+Civil Engineer in Computer Science with experience in agile team leadership and software projects. Passionate about self-learning and exploring AI technologies. Data Scientist Consultant specializing in innovation and a focus on extracting value from data. Proficient in data analysis, predictive modeling, visualization, and large data management using tools such as Python, R, SQL, DBT, Machine Learning, ETL, and BI. Enthusiastic about the continuous search for innovative solutions in the world of data and technology.
+
 # PandasIA 🐼 🐾
 
 
